@@ -265,8 +265,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Kendi-Nceene</summary>
     <ul>
-    <li><a href="https://www.github.com/Kendi-Nceene">Github</a></li>
-   <li><a href="kendinceene@gmail.com">e-mail</a></li>
+     <li><a href="https://www.github.com/Kendi-Nceene">Github</a></li>
     </ul>
 </details>
 
